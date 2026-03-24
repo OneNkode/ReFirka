@@ -7,10 +7,12 @@
 [![Actions](https://img.shields.io/github/actions/workflow/status/QwIT-Development/app-legacy/builder.yml?style=for-the-badge&logo=githubactions&logoColor=EAF7CC&label=Actions&labelColor=0D1202&color=A7DC22)](https://github.com/QwIT-Development/app-legacy/actions/workflows/builder.yml)
 
 
+Jelenlegi Fork Fejlesztője:
+
+**OneNKode**: head developer
 
 
-Alkalmazás Alapját Fejlesztették
-
+Alkalmazás Alapját Fejlesztették:
 
 **Management**
 - Zypherift
@@ -26,8 +28,5 @@ Alkalmazás Alapját Fejlesztették
 
 **vrolandd, TMarccci:** head developer
 
-Jelenlegi Fork Fejlesztője:
-
-**OneNKode**: head developer
 
 ***annon:** a régi Filc Napló fejlesztője (ez az app, ha bár sokban változott, alapjaiban a Filc-re, valamint a reFilc-re épül)*
